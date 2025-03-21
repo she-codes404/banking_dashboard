@@ -1,54 +1,57 @@
 # Banking_Dashboard
-Banking Dashboard with HTML and CSS
-
 Banking Dashboard
-A modern, responsive banking dashboard interface built with HTML and CSS.
+
+A sleek, modern, and responsive banking dashboard interface built with HTML and CSS.
 
 Overview
-This project is a frontend implementation of a banking dashboard called "Ujamaa Banking Dashboard". It provides a clean and intuitive user interface for banking operations with a focus on visual appeal and user experience.
+
+The Ujamaa Banking Dashboard is a frontend implementation designed for an intuitive and visually appealing banking experience. It offers seamless navigation, clear financial insights, and easy access to essential banking operations.
 
 Features
-Responsive Sidebar Navigation: Easy access to dashboard, calendar, wallet, analytics, profile, notifications, and settings
-User Profile Integration: Personalized greeting and account access
-Card Management: View and manage multiple payment cards (Visa, Mastercard)
-Quick Actions: Fast access to common operations like transfers, utility payments, taxes, and transport
-Transaction History: Detailed view of recent sales with status indicators
-Financial Statistics: Visual representation of spending patterns with interactive donut chart
-Recent Transactions: Timeline of latest financial activities
+
+- Modern & Responsive Design – A clean layout optimized for all devices
+- Sidebar Navigation – Quick access to dashboard, calendar, wallet, analytics, profile, notifications, and settings
+- User Profile Integration – Personalized greeting and account access
+- Card Management – View and manage multiple payment cards (Visa, Mastercard)
+- Quick Actions – Instant access to transfers, utility payments, taxes, and transport services
+- Transaction History – Detailed sales records with status indicators
+- Financial Analytics – Interactive donut chart for tracking spending patterns
+- Recent Transactions – A timeline of the latest financial activities
+
+
 Technologies Used
 HTML5
 CSS3
 Box Icons (for iconography)
 Google Fonts (Bebas Neue)
+
 Preview
-The dashboard features:
 
-A dark-themed sidebar with icon navigation
-A main content area with cards display, quick action buttons, and transaction tables
-A statistics panel with visual data representation
-Responsive design elements for various screen sizes
+The dashboard includes:
+
+- A main content area featuring account details, quick actions, and transaction records
+- A statistics panel with interactive financial data visualizations
+- A fully responsive design for various screen sizes
+
+
 Accessibility
-The dashboard includes accessibility features such as:
+Designed with inclusivity in mind, the dashboard incorporates:
 
-Proper ARIA roles and labels
-Keyboard navigation support (tabindex)
-Semantic HTML structure
-Clear visual indicators for interactive elements
+- ARIA roles and labels for better screen reader support
+- Keyboard navigation (tabindex) for improved usability
+- Semantic HTML structure for enhanced accessibility
+- Clear visual indicators for interactive elements
+
 Getting Started
-Clone the repository
+
+1. Clone the Repository:
 git clone https://github.com/she-codes404/banking_dashboard.git
 
-
-
-Open the project in your preferred code editor
-
-Launch the index.html file in a web browser to view the dashboard
-
-Customization
-The dashboard can be customized by modifying the CSS styles in the linked style.css file. The layout uses a combination of flexbox and grid for responsive design.
+2. Open the Project in your preferred code editor
+3. Launch index.html in a web browser to view the dashboard
 
 Credits
-Profile images from Random User API
-Icons from Box Icons
-Fonts from Google Fonts
+Profile Images – Random User API
+Icons – Box Icons
+Fonts – Google Fonts
 
